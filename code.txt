@@ -1,0 +1,57 @@
+<!-- This is the html part -->
+<div class ="body">
+  <main id="main" >FCC: tribute page
+  <header> <h1 id="title" class="hclass">"The Cosmos"</h1></header>
+    <div id="img-div">
+      <img id="image" class="imgalign" src="https://wallpapertag.com/wallpaper/full/3/c/b/154614-cosmos-wallpaper-1920x1080-ipad.jpg" alt=" A high resolution of space"><h2 type="text" id="img-caption">A high resolution image of space</h2>       
+
+      <p id="tribute-info" class="align">
+        The cosmos is the Universe. Using the word cosmos rather than the word universe implies viewing the universe as a complex and orderly system or entity; the opposite of chaos. The cosmos, and our understanding of the reasons for its existence and significance, are studied in <a href="https://en.wikipedia.org/wiki/Cosmology" target="_blank">cosmology</a> – a very broad discipline covering any scientific, religious, or philosophical contemplation of the cosmos and its nature, or reasons for existing. Religious and philosophical approaches may include in their concepts of the cosmos various spiritual entities or other matters deemed to exist outside our physical universe. 
+        The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. While the spatial size of the entire universe is unknown, it is possible to measure the size of the observable universe, which is currently estimated to be 93 billion light-years in diameter. In various multiverse hypotheses, a universe is one of many causally disconnected constituent parts of a larger multiverse, which itself comprises all of space and time and its contents; as a consequence, ‘the universe' and ‘the multiverse' are synonymous in such theories.
+   
+        The study of the cosmos, and in its broadest sense covers a variety of very different approaches: scientific, religious and philosophical this all comes under cosmology.
+
+When cosmology is used without a qualifier, it often signifies physical cosmology, unless the context makes clear that a different meaning is intended
+        
+        <footer class="Fclass"> If you wish to know more about our incredible cosmos check out the books by <a href="https://en.wikipedia.org/wiki/Carl_Sagan"> Carl Segan</a> or check out this amazing show <a href="https://www.imdb.com/title/tt2395695/"> <solid>COSMOS: A SPACE TIME ODYSSEY</solid></a> based on the books of same person.</footer>
+  
+    
+  </main>
+  
+</div>
+
+
+
+
+
+
+
+
+<!-- This is the CSS segment-->
+<style>
+.body{
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+.hclass{
+  text-align: center;
+}
+.align{
+  text-align: justify;
+  justify-content: center;
+}
+header{
+  justify-content: center;
+}
+.imgalign{
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+.Fclass{
+  text-align="center";
+}
+
+</style>
